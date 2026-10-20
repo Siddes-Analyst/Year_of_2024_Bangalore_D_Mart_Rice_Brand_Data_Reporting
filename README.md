@@ -56,8 +56,6 @@
 
 ## 🛒 By Stores
 
-![](Images/03.png)
-
 ### 📊 Analysis
 - Total Stores: 17 (Bangalore)
 - Highest Sales: Hoodi Store – ₹98.05 L

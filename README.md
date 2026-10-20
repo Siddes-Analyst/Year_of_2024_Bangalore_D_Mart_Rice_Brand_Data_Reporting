@@ -1,7 +1,7 @@
 # Year of 2024 Bangalore D Mart Rice Brand Data Reporting 🛒
 ## 🌐 Live Dashboard
 
-- Click Here to View Live Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiNTg3N2VhYjItOGMxMi00ODhjLWE5MDMtNmM1NDljYzc5YTgwIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
+- Click Here to View Live Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiOTNmYjdmZjQtYTZjNS00YzAwLWExMmUtNDE3NTQ4YTkzODBlIiwidCI6IjhjZmNiNGI1LTQ3N2YtNDE3Zi1iMjRiLTE0MjZhODBjMWQ2MCJ9]
 
 ---
 

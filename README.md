@@ -19,9 +19,11 @@
   
 ---
 
-## ⏱️ By Years
+![](01_D_Mart_Rice_Product_Data_Reportings.jpg)
 
-![](01_D_Mart_Rice_Product_Data_Reportings.pdf)
+---
+
+## ⏱️ By Years
 
 ### 📊 Analysis
 - 2020 – Sales – ₹3.09 Cr, Profit – ₹64.10 L
